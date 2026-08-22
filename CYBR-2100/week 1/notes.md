@@ -1,3 +1,5 @@
+# Review of class
+
 
 Privacy & Authorization: Core Concepts 
 Key Legal Frameworks (U.S.)
@@ -5,9 +7,6 @@ Key Legal Frameworks (U.S.)
 • Computer Fraud and Abuse Act (CFAA)
 • State-level data protection laws (e.g., CCPA)
 • Sector-specific rules (HIPAA, FERPA, GLBA 
-
-
-
 
 
 Privacy in the workplace 
@@ -62,8 +61,6 @@ Monitoring scope must be disclosed, proportionate, and lawful
 Different standards apply to company-owned vs personal devices 
 
  Privacy expectations vary by jurisdiction and organization policy 
-
-
 
 
 What is a stakeholder 
