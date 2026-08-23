@@ -1,4 +1,4 @@
-# Review of class
+# Review of class week 1 
 
 
 Privacy & Authorization: Core Concepts 
