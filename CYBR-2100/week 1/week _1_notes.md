@@ -29,15 +29,15 @@ policy
 
 AI flags an Insider Threat 
 ---
-Unusual login times: Accessing systems at 2–4 AM on multiple nights
+- Unusual login times: Accessing systems at 2–4 AM on multiple nights
 
-Privacy-tool use: VPN and Tor browser detected on corporate network
+- Privacy-tool use: VPN and Tor browser detected on corporate network
 
-Virtual machines: Multiple VMs created on personal machine tied to corporate account
+- Virtual machines: Multiple VMs created on personal machine tied to corporate account
 
-Network scanning: Nmap-style port scan activity detected on the internal network
+- Network scanning: Nmap-style port scan activity detected on the internal network
 
-Downloading resources: Large volume of cybersecurity tools, documentation, and exploit databases downloaded 
+- Downloading resources: Large volume of cybersecurity tools, documentation, and exploit databases downloaded 
 
 
 
@@ -67,13 +67,13 @@ and confidence
 Privacy in the workplace 
 ---
 
-Employees do not surrender all privacy rights at work
+- Employees do not surrender all privacy rights at work
 
-Monitoring scope must be disclosed, proportionate, and lawful 
+- Monitoring scope must be disclosed, proportionate, and lawful 
 
-Different standards apply to company-owned vs personal devices 
+- Different standards apply to company-owned vs personal devices 
 
- Privacy expectations vary by jurisdiction and organization policy 
+-  Privacy expectations vary by jurisdiction and organization policy 
 
 
 What is a stakeholder? 
