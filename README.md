@@ -1,4 +1,4 @@
-# Hocking College 
+# My portfolio 
 
 These are the classes that I have taken or am currently enrolled in. 
 
