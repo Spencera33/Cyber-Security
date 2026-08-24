@@ -4,7 +4,7 @@
 Privacy & Authorization: Core Concepts 
 Key Legal Frameworks (U.S.)
 
-• Electronic Communications Privacy Act (ECPA)
+* Electronic Communications Privacy Act (ECPA)
 
 • Computer Fraud and Abuse Act (CFAA)
 
