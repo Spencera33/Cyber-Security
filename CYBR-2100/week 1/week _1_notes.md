@@ -50,7 +50,7 @@ and confidence
 • Provide diligent and competent service to principals
 • Advance and protect the profession 
 
--
+
 
 Privacy in the workplace 
 
