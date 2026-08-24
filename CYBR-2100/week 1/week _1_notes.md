@@ -63,7 +63,13 @@ Different standards apply to company-owned vs personal devices
  Privacy expectations vary by jurisdiction and organization policy 
 
 
-What is a stakeholder 
+What is a stakeholder? 
 Anyone who has an interest in or is affected by decisions or their outcomes 
+
+
+
+# Extra notes
+
+*https://www.acm.org/code-of-ethics*
 
 
