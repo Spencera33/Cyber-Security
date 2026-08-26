@@ -31,9 +31,9 @@ Access without Authorization
 Had some legitimate access, but used it to obtain or alter information off- limits to that access
 
 
-NoT every ToS Violation Is a federal crime 
+**NoT every ToS Violation Is a federal crime**
 
-DOJ charging policy is explicit that these are NOT sufficient, by themselves, to warrant federal charges:
+*DOJ charging policy is explicit that these are NOT sufficient, by themselves, to warrant federal charges*
 
 
 
