@@ -58,7 +58,9 @@ and confidence
 
 • Act honorably, honestly, justly, responsibly, and legally
 
+
 • Provide diligent and competent service to principals
+
 
 • Advance and protect the profession 
 
@@ -83,15 +85,22 @@ Anyone who has an interest in or is affected by decisions or their outcomes
 
 
 • Security decisions rarely affect only one person or group
+
 • Ignoring stakeholders leads to incomplete analysis and harmful outcomes
+
 • Identifying stakeholders helps us ask: "Who benefits? Who is harmed? Who has authority?"
 
 
 
+
 • Direct: the organization, the security team, individual employees under investigation
+
 • Indirect: customers whose data is held, business partners, regulators
+
 • Systemic: communities affected by security failures or over-monitoring
+
 • Adversarial: threat actors who benefit from weak security
+
 
 
 
