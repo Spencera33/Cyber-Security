@@ -81,7 +81,7 @@ Privacy in the workplace
 What is a stakeholder? 
 ---
 
-Anyone who has an interest in or is affected by decisions or their outcomes 
+*Anyone who has an interest in or is affected by decisions or their outcomes*
 
 
 • Security decisions rarely affect only one person or group
