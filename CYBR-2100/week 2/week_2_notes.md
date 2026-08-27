@@ -36,6 +36,9 @@ Had some legitimate access, but used it to obtain or alter information off- limi
 
 # 2nd part of lecture
 
+**Digital evidence investigation and legal decision-making**
+*A secuirty tool alert is not proof alone.* 
+
 
 
 
