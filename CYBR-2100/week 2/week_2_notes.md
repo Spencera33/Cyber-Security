@@ -38,10 +38,21 @@ Had some legitimate access, but used it to obtain or alter information off- limi
 
 **Digital evidence investigation and legal decision-making**
 
-*A secuirty tool alert is not proof alone.* 
+
+*A security tool alert is not proof alone.* 
 
 
 
+
+**Where evidence can come from** 
+
+*Screenshots, memory, logs, insurance companies* 
+
+Not everything being produced is evidence 
+
+Interpretations 
+An analyst summary 
+Same with AI generated incedent reports 
 
 
 
