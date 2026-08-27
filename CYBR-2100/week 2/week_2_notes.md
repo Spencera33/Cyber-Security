@@ -34,6 +34,11 @@ Had some legitimate access, but used it to obtain or alter information off- limi
 
 *DOJ charging policy is explicit that these are NOT sufficient, by themselves, to warrant federal charges*
 
+# 2nd part of lecture
+
+
+
+
 
 
 
