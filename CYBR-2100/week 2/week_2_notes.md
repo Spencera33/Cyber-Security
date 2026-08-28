@@ -52,13 +52,83 @@ Not everything being produced is evidence
 
 Interpretations 
 An analyst summary 
-Same with AI generated incedent reports 
+Same with AI-generated incident reports 
 
 
+**How evidence is identified, collected, preserved, analyzed,
+and documented matters** 
+
+*Where Evidence Can Come From* 
+
+1. Authentication logs
+
+2. Endpoint logs
+
+3. Firewall logs
+
+4. Cloud audit records
+
+5. Email
+
+6. Browser artifacts
+
+7. File metadata
+
+8. Network traffic
+
+9. Memory
+
+10. Mobile-device data
+
+11. Security alerts
+
+12. Photos/screenshots
+
+13. Forensic images
 
 
-**Extra resources** 
 ---
+
+**Digital Forensics Foundations**
+*Selected concepts from NIST SP 800-86 — not a forensics certification in one session* 
+
+
+
+**Four Broad Activities** 
+
+1. Identification
+  
+   *What evidence may exist, and
+where might it be located?* 
+
+
+
+2. Collection
+
+  *How can relevant information be
+acquired appropriately?* 
+
+3. Examination
+
+   *What useful information can be
+extracted?*
+
+5. Analysis
+
+  *What does the information mean
+when considered with other
+evidence?* 
+   
+
+
+
+
+
+
+
+# Extra links 
 *https://www.justice.gov/jm/jm-9-48000-computer-fraud*
 
 *https://www.cisa.gov/vulnerability-disclosure-policy-template*
+
+*https://csrc.nist.gov/pubs/sp/800/86/final*
