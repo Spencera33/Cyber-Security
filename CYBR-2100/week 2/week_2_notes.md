@@ -90,6 +90,7 @@ and documented matters**
 ---
 
 **Digital Forensics Foundations**
+
 *Selected concepts from NIST SP 800-86 — not a forensics certification in one session* 
 
 
