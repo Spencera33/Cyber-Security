@@ -24,7 +24,7 @@ Authoritative U.S. standard: NIST Special Publication 800-63-4 (2024 Final)
 
 
 **Three Assurance Level Hierachies** 
-
+---
 1. IAL — Identity Assurance Level: how rigorously the identity was proved
 
 2. AAL — Authentication Assurance Level: strength of the authentication mechanism
@@ -35,7 +35,7 @@ Authoritative U.S. standard: NIST Special Publication 800-63-4 (2024 Final)
 
 
 **Identity Proofing**
-
+---
 *Establishing who you are* 
 
 IAL2 (Remote): document scan + live facial comparison — verifies identity without in-person visit
@@ -46,7 +46,7 @@ Proofing failures create critical vulnerabilities — impostors gain access to h
 
 
 **Authentication Proving Control of an Identity** 
-
+---
 Three factor categories:
 
 *Something You Know — password, PIN, security question (weakest)* 
@@ -57,7 +57,7 @@ Three factor categories:
 
 
 **Fderation trusted Identity across Domains** 
-
+---
 *Federation: identity established by one system (Identity Provider / IdP) accepted by another (Relying Party)*
 
 *Common protocols: SAML 2.0, OpenID Connect (OIDC), OAuth 2.0*
