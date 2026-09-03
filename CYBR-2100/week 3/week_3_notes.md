@@ -1,8 +1,8 @@
-# Review of class 
+# Digital Identity 
 
-**Digital Identity**
+*Concepts, Components & the NIST Standard*
 
-Concepts, Components & the NIST Standard 
+*Review of class*
 
 ---
 *What is Digital Identity* 
