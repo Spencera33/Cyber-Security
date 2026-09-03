@@ -35,6 +35,7 @@ Authoritative U.S. standard: NIST Special Publication 800-63-4 (2024 Final)
 
 
 **Identity Proofing**
+
 *Establishing who you are* 
 
 IAL2 (Remote): document scan + live facial comparison — verifies identity without in-person visit
